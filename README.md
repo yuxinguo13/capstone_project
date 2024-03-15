@@ -1,6 +1,7 @@
 # Nerfies
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository that contains source code for the [DSC Capstone Project B12-4]([https://nerfies.github.io](https://yuxinguo13.github.io/capstone_project/)).
+
 
 If you find Nerfies useful for your work please cite:
 ```
